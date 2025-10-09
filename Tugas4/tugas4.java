@@ -1,4 +1,4 @@
-package TugasPraktikum.Tugas4;
+ package TugasPraktikum.Tugas4;
 import java.util.Scanner;
 
 public class tugas4 {
